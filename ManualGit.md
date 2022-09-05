@@ -53,4 +53,4 @@
 
 Дополнительную информацию о возможностях Git можно посмотреть в этой [шпаргалке](https://habitica.fandom.com/ru/wiki/Шпаргалка_по_Markdown)
 
-![Продолжаем изучать Git](https://media.tproger.ru/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png)
+![Продолжаем изучать Git](Git.jpg)
